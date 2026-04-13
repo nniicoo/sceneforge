@@ -1,0 +1,31 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.tmp
+*.unityproj
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Visual Studio
+.vs/
+*.sln
+*.csproj
+*.unityproj
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel proxy 的 node_modules
+sceneforge-proxy/node_modules/
+sceneforge-proxy/.env.local
+sceneforge-proxy/.vercel/
