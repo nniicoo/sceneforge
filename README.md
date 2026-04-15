@@ -10,9 +10,9 @@ Describe a room in natural language → AI generates JSON → Unity instantiates
 ## Demo
 
 > 🎞️ _GIF — Full loop: type prompt → scene generates
-> ![工具演示动图](./images/generate scene.gif)
+> ![工具演示动图](./images/generatescene.gif)
 > 🎞️ _GIF — Full loop:  Preset selector showing Library / Office / Living Room templates_
-> ![工具演示动图](./images/present button.gif)
+> ![工具演示动图](./images/presentbutton.gif)
 
 ---
 
