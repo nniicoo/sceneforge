@@ -3,17 +3,16 @@
 **Browser-playable AI-driven 3D scene generator.**  
 Describe a room in natural language → AI generates JSON → Unity instantiates the scene in real time. Walk up to a VRoid avatar NPC for multi-turn conversation-driven scene editing.
 
-🎮 **[Play on itch.io](https://your-username.itch.io/sceneforge)** · 📦 **[Releases](../../releases)**
+🎮 **[Play on itch.io](https://nniicoo.itch.io/sceneforge)** · 📦 **[Releases](../../releases)**
 
 ---
 
 ## Demo
 
-> 📸 _Screenshot 1 — Opening view: empty room with UI panel on the left_  
-> 📸 _Screenshot 2 — After typing "a cozy library with reading corner": books, desk, sofa appear_  
-> 📸 _Screenshot 3 — NPC dialogue panel open, user typing "move the desk to the left wall"_  
-> 📸 _Screenshot 4 — Preset selector showing Library / Office / Living Room templates_  
-> 🎞️ _GIF — Full loop: type prompt → scene generates → walk to NPC → chat to move objects_
+> 🎞️ _GIF — Full loop: type prompt → scene generates
+> ![工具演示动图](./images/generate scene.gif)
+> 🎞️ _GIF — Full loop:  Preset selector showing Library / Office / Living Room templates_
+> ![工具演示动图](./images/present button.gif)
 
 ---
 
